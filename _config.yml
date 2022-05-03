@@ -100,13 +100,15 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Osun state university
-        sub_title: Bsc Anatomy
-        caption: Date Range (eg. 2016- 2021)
+        title: Google UX design certificate
+        sub_title: Professional UX/UI designer
+        caption: Date Range (eg. 2021- 2021)
         quote: >
-          Short institution or course description (optional)
+          A rigorous and indepth 7 course certificate programme organised by Google
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          I completed a rigorous training designed for entry level and professional job readiness. it inclded 15 modules, the topics covered,
+          UX research, fundamentals, inclusive design, low-fidelity and high-fidelity prototypes and tools like Figma and Adobe XD. i completed
+          hands on projects and developed a portfolio to recieve to certificate.
           
     content:
       - layout: top-right
