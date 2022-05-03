@@ -37,7 +37,7 @@ googlescholar_username:
 additional_links:
 - title: Link name
   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+  url: Link url qamardeenoladimeji.myportfolio.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,7 +52,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  My name is Abdul-Malik, i am a gogle cerified UX/UI designer, even though i graduated from the department of Anatomy as the best graduating student,
+  i delved into the world of UX diectly because that has always been my passion, and within that short period, i took several classes, and also enrolled
+  for a master certificate in UX by google, Even though we never stop learning as a designer, i can confidently say i put my best into anything i embark 
+  upon to make sure i get the best possible result.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
@@ -67,20 +70,41 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Case Study for a shopping app called Shoptacle
+        link: https://www.behance.net/gallery/142809049/Case-study-of-a-shopping-app-called-Shoptacle/modules/806825425
+        link_text: Here is a link to the project
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://www.behance.net/gallery/142809049/Case-study-of-a-shopping-app-called-Shoptacle/modules/806825425
         quote: >
-          Short overview of the project (optional)
+          Short overview of the project 
+          An application design to allow customers of a clothing store shop online
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Shoptacle is a large clothing store, with several stores all over the country, they have a large collection of designer clothing and accessories.
+          they stand for luxury effieciency, gonesty and customer satisfaction
+   
+   - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Mockups for a shopping app called Mkstores
+        link: https://www.behance.net/gallery/142313679/Mkstores-mobile-app-mockup
+        link_text: Here is a link to the project
+        additional_links:
+          - title:  
+            icon: 
+        quote: >
+          Short overview of the project 
+          An application design to allow customers of a clothing store shop online
+        description: | # this will include new lines to allow paragraphs
+          Shoptacle is a large clothing store, with several stores all over the country, they have a large collection of designer clothing and accessories.
+          they stand for luxury effieciency, gonesty and customer satisfaction
   - title: Experience
     layout: list
     content:
