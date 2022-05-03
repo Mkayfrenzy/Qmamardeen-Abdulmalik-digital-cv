@@ -57,11 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   for a master certificate in UX by google, Even though we never stop learning as a designer, i can confidently say i put my best into anything i embark 
   upon to make sure i get the best possible result.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  
 
 content:
   - title: Projects # Title for the section
