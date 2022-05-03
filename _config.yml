@@ -108,6 +108,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
           
+    content:
+      - layout: top-right
         title: Osun state university
         sub_title: Bsc Anatomy
         caption: Date Range (eg. 2016- 2021)
@@ -115,6 +117,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+        
           
   - title: Skills
     layout: text
