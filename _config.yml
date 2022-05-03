@@ -83,24 +83,7 @@ content:
           Shoptacle is a large clothing store, with several stores all over the country, they have a large collection of designer clothing and accessories.
           they stand for luxury effieciency, gonesty and customer satisfaction
    
-   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Mockups for a shopping app called Mkstores
-        link: https://www.behance.net/gallery/142313679/Mkstores-mobile-app-mockup
-        link_text: Here is a link to the project
-        additional_links:
-          - title:  
-            icon: 
-        quote: >
-          Short overview of the project 
-          An application design to allow customers of a clothing store shop online
-        description: | # this will include new lines to allow paragraphs
-          Shoptacle is a large clothing store, with several stores all over the country, they have a large collection of designer clothing and accessories.
-          they stand for luxury effieciency, gonesty and customer satisfaction
+  
   - title: Experience
     layout: list
     content:
